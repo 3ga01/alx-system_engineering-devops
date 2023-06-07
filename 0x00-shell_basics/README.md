@@ -3,4 +3,5 @@ This directory contains the following scripts:
 2.Script to display the content list of your current working directory
 3.Script to change current working directory to user's home directory
 4.Script to display current directory contents in a long format
-5.Script to Display current directory contents, including hidden files (starting with .). 
+5.Script to Display current directory contents, including hidden files (starting with .)
+6.Script to Display current directory contents, Long format, with user and group IDs displayed numerically, And hidden files (starting with .) 
